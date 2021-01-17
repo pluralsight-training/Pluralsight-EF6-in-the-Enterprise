@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ViewModels/obj/Test/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
